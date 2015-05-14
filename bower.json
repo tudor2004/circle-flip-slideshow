@@ -1,0 +1,16 @@
+{
+  "name": "circle-flip-slideshow",
+  "version": "0.0.1",
+  "authors": [
+    "Tudor-Dan Ravoiu <tudor2004@yahoo.com>"
+  ],
+  "main": "js/jquery.flipshow.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
